@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-image: url("https://www.ilovewallpaper.co.uk/images/i-love-wallpaper-warehouse-photographic-brick-effect-wallpaper-white-grey-ilw261454-p2671-9190_image.jpg")
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    font-family: 'Indie Flower', cursive;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+
+}
+form{
+    font-family: 'Indie Flower', cursive;
+}
+#submit,#reset{
+       background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+     font-family: 'arial';
